@@ -11,7 +11,7 @@ A desktop application built using PyQt5 that performs real-time object detection
 
 ## 📸 Demo
 
-![App Screenshot](assets/demo.png)
+![App Screenshot](assets/Screenshot1.png)
 
 ---
 
